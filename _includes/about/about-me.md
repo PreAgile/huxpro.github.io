@@ -48,10 +48,10 @@
   </p>
   <br>
 
-### 👀  제가 최근에  기술은 ... <img alt="NestJS" src="https://img.shields.io/badge/-NestJs-informational?style=plastic&logo=NestJs&logoColor=white&color=rgb(244,35,78)"> 
+### 👀  제가 최근에 관심있는 기술은 ... <img alt="NestJS" src="https://img.shields.io/badge/-NestJs-informational?style=plastic&logo=NestJs&logoColor=white&color=rgb(244,35,78)"> 
 <br>
 
- ### ❓ 저는 ... 
+ ❓ 저는 ... 
  * 🤔 끊임없이 질문하며 다시 생각해봅니다.
  * 👊🏻 주어진 업무를 기한내에 마칠때까지 최선을 다합니다.
  * 😁 항상 최신 트렌드에 관심을 가지며 사용하길 원합니다.
